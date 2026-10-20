@@ -1,0 +1,11 @@
+{
+  "org": "florimondmanca",
+  "repo": "ddtrace-asgi",
+  "versions": [
+    {
+      "commit": "78936f2556dc3df906d40fcf78a2e64907eb301f",
+      "tag": "",
+      "parsed_at": "2026-10-20T22:13:58.470938+00:00"
+    }
+  ]
+}
