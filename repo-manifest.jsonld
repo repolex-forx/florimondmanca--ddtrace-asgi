@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/florimondmanca/ddtrace-asgi/commit/78936f2556dc3df906d40fcf78a2e64907eb301f",
       "git:hexsha": "78936f2556dc3df906d40fcf78a2e64907eb301f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T22:13:58.390899+00:00"
     },
     {
       "@id": "https://repolex.ai/r/florimondmanca/ddtrace-asgi/commit/0e407564cfeb42a573e07e151816e6c14c6d3e36",
